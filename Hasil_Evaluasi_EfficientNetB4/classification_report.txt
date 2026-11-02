@@ -1,0 +1,16 @@
+               precision    recall  f1-score   support
+
+    Agya_Ayla       0.99      0.98      0.98       100
+ Avanza_Xenia       0.99      0.99      0.99       100
+         Brio       0.98      1.00      0.99       100
+     Fortuner       1.00      0.97      0.98       100
+Innova_Reborn       0.99      1.00      1.00       100
+ Innova_Zenix       1.00      0.99      0.99       100
+Kijang_Innova       0.99      1.00      1.00       100
+ Pajero_Sport       0.97      1.00      0.99       100
+  Sigra_Calya       0.99      0.98      0.98       100
+      Xpander       1.00      0.99      0.99       100
+
+     accuracy                           0.99      1000
+    macro avg       0.99      0.99      0.99      1000
+ weighted avg       0.99      0.99      0.99      1000
